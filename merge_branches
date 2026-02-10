@@ -1,9 +1,9 @@
 git checkout main
 Switched to branch 'main'
-Your branch is up-to-date with 'origin/main'.
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
 
-git merge bug-fix-typo-2
-Updating 4a712c6..e46c5c5
-Fast-forward
- .gitignore | 1 +
+git merge bug-fix-typo
+Merge made by the 'ort' strategy.
+ README.md | 1 +
  1 file changed, 1 insertion(+)
